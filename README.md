@@ -4,8 +4,6 @@ This is a boilerplate for using Vue in the Chrome Extension.
 
 ### How do I get set up? ###
 
-* Summary of set up
-
 You will need npm
 ```bash
 git clone git@github.com:jasonleakey/chrome-extension-vue-boilerplate.git my-project
