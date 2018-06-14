@@ -26,6 +26,7 @@ And go to [chrome://extensions](chrome://extensions), click **LOAD UNPACKED**, s
     
 2. Replace TODO items in the source code.
 
-### Who do I talk to? ###
+### Contact me
 
-* Contact Jason Huang <[jasonh3308@gmail.com](mailto:jasonh3308@gmail.com)>
+Feel free to submit issues & feature requests in [Issues](https://github.com/jasonleakey/chrome-extension-vue-boilerplate/issues)
+
